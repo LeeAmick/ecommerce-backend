@@ -1,0 +1,12 @@
+{
+  "name": "ecommerce-backend",
+  "version": "1.0.0",
+  "description": "This project is a basic backend for an e-commerce website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
